@@ -20,17 +20,6 @@ Rasp is a lightweight version control system designed for efficient local and re
      ```
    - Click **OK** and restart the command prompt.
 
-### Linux/Mac
-
-1. Move the executable to `/usr/local/bin/`:
-   ```sh
-   sudo mv rasp /usr/local/bin/
-   ```
-2. Make it executable:
-   ```sh
-   chmod +x /usr/local/bin/rasp
-   ```
-
 Now you can use `rasp` globally
 
 ## Usage
